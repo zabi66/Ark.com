@@ -21,7 +21,7 @@ h1{
    -moz-animation: h1 1s ease-in-out infinite alternate;
    animation: h1 1s ease-in-out infinite alternate;
    position: relative;
-   top: 410px;
+   top: 310px;
 }
  @-webkit-keyframes h1{
     from {
